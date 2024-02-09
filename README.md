@@ -1,4 +1,4 @@
-j- 👋 Hi,me name chamo Geruza
+j- 👋 Hi,I´m name Geruza
 - 👀 I'm interested in making codes
 - 🌱 I'm currently learning Front end
 
