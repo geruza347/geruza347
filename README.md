@@ -1,6 +1,7 @@
-j- 👋 Hi,me chamo Geruza
-- 👀 I’m interested in  fazer codicos
-- 🌱 I’m currently learning  Front end
+j- 👋 Hi,me name chamo Geruza
+- 👀 I'm interested in making codes
+- 🌱 I'm currently learning Front end
+
 
 <!---
 geruza347/geruza347 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
